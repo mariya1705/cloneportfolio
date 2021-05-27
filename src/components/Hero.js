@@ -38,7 +38,7 @@ const Hero = () => {
             </p>
             <div className="hero-buttons">
               <Link to="/contact" className="btn1">
-                Contact mee
+                Contact me
               </Link>
 
               <a download href="resume.pdf" className="btn">
