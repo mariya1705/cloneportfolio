@@ -736,7 +736,7 @@ span {
   }
 }
 
-.header-links:nth-child(1) {
+.header-links {
   background: #34a7d4;
 }
 
