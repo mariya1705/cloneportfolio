@@ -26,7 +26,7 @@ const data = [
   {
     id: 4,
     icon: <FaYoutubeSquare className="social-icon"></FaYoutubeSquare>,
-    url: "https://www.youtube.com/",
+    url: "https://www.youtube.com",
   },
   {
     id: 5,
