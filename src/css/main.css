@@ -955,7 +955,7 @@ Services
   background: #fdf1d8;
 }
 
-.service:nth-child(1, 2, 3) .service-icon {
+.service:nth-child(n) .service-icon {
   border-radius: 50%;
   background: #fff;
 }
@@ -1159,7 +1159,7 @@ Testimonials
   background: #fff4de;
 }
 
-.testimonial:nth-child(1, 2, 3) .service-icon {
+.testimonial:nth-child(n) .service-icon {
   border-radius: 50%;
   background: #fff;
 }
