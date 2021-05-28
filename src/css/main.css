@@ -736,10 +736,6 @@ span {
   }
 }
 
-.header-links {
-  background: #34a7d4;
-}
-
 /*
 =============== 
 Hero
@@ -959,7 +955,7 @@ Services
   background: #fdf1d8;
 }
 
-.service:nth-child(n) .service-icon {
+.service:nth-child(1, 2, 3) .service-icon {
   border-radius: 50%;
   background: #fff;
 }
@@ -1163,7 +1159,7 @@ Testimonials
   background: #fff4de;
 }
 
-.testimonial:nth-child(n) .service-icon {
+.testimonial:nth-child(1, 2, 3) .service-icon {
   border-radius: 50%;
   background: #fff;
 }
