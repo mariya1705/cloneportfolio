@@ -1,6 +1,8 @@
 import React from "react"
 import Aos from "aos"
 import "aos/dist/aos.css"
+import logo from "../assets/logo.svg"
+
 import SocialLinks from "../constants/socialLinks"
 const Footer = () => {
   return (
@@ -13,10 +15,7 @@ const Footer = () => {
           data-aos-easing="ease-in-back"
           styleClass="footer-links"
         ></SocialLinks>
-        <h4>
-          copyright&copy;{new Date().getFullYear()}
-          <span> WebDev</span> all rights reserved
-        </h4>
+         <img src={logo} alt="logo" />
       </div>
     </footer>
   )
