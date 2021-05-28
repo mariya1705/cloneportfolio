@@ -736,6 +736,10 @@ span {
   }
 }
 
+.social-link:nth-child(1) {
+  background: #34a7d4;
+}
+
 /*
 =============== 
 Hero
@@ -948,15 +952,15 @@ Services
 .service:nth-child(2) {
   background: #dff8c6;
 }
-.service:nth-child(4) {
-  background: #fcdcdf;
-}
 .service:nth-child(3) {
   background: #fdf1d8;
 }
+.service:nth-child(4) {
+  background: #fcdcdf;
+}
 
 .service:nth-child(n) .service-icon {
-  border-radius: 50%;
+  border-radius: 45%;
   background: #fff;
 }
 
@@ -1149,9 +1153,7 @@ Testimonials
 .testimonial:nth-child(2) {
   background: #d8fdf9;
 }
-.testimonial:nth-child(4) {
-  background: #dff8c6;
-}
+
 .testimonial:nth-child(3) {
   background: #ffe9ea;
 }
@@ -1159,7 +1161,7 @@ Testimonials
   background: #fff4de;
 }
 
-.testimonial:nth-child(n) .service-icon {
+.testimonial:nth-child(n) {
   border-radius: 50%;
   background: #fff;
 }

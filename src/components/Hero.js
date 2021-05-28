@@ -45,7 +45,7 @@ const Hero = () => {
                 Get Resume
               </a>
             </div>
-            <SocialLinks className="social-link header-links" />
+            <SocialLinks className="social-link" />
           </div>
           <div className="hero-image-wrapper">
             <Image fluid={fluid} className="hero-img" />
