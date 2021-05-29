@@ -15,7 +15,10 @@ const Footer = () => {
           data-aos-easing="ease-in-back"
           styleClass="footer-links"
         ></SocialLinks>
-         <img src={logo} alt="logo" />
+         <h4>
+          copyright&copy;{new Date().getFullYear()}
+          <span>WebDev</span> all rights reserved
+        </h4>
       </div>
     </footer>
   )
