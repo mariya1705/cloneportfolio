@@ -1145,11 +1145,12 @@ Testimonials
   border-radius: 1rem;
   text-align: center;
 }
-
 .testimonial:nth-child(2) {
   background: #d8fdf9;
 }
-
+.testimonial:nth-child(4) {
+  background: #dff8c6;
+}
 .testimonial:nth-child(3) {
   background: #ffe9ea;
 }
@@ -1157,7 +1158,7 @@ Testimonials
   background: #fff4de;
 }
 
-.testimonial:nth-child(1,2, 3) {
+.testimonial:nth-child(1, 2, 3) .service-icon {
   border-radius: 50%;
   background: #fff;
 }
