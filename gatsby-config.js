@@ -9,7 +9,7 @@ module.exports = {
     title: `WebDev Portfolio`,
     description: `This is WebDev Portfolio Site built with Gatsby and Strapi`,
     titleTemplate: `%s | Webdev Portfolio`,
-    url: `https://temp-site-portfolio.netlify.app`,
+    url: `https://www.devrayhan.com/`,
     twitterUsername: `@Rehan`,
     image: `/mainImg.png`,
   },
