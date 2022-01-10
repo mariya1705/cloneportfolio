@@ -159,7 +159,7 @@ p {
 
 .btn1 {
   text-transform: uppercase;
-  background: #D28ABB;
+  background: #FFAF8D;
   color: var(--clr-primary-9);
   padding: 0.4rem 0.6rem;
   letter-spacing: var(--spacing);
@@ -177,7 +177,7 @@ p {
 
 .btn1:hover {
   color: var(--clr-primary-1);
-  background: #B15293;
+  background: #F39B75;
 }
 
 .center-btn {
