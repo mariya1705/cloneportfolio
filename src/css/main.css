@@ -137,7 +137,7 @@ p {
 
 .btn {
   text-transform: uppercase;
-  background: #FFBC9F;
+  background: #B15293;
   color: var(--clr-primary-9);
   padding: 0.4rem 0.6rem;
   letter-spacing: var(--spacing);
@@ -154,12 +154,12 @@ p {
 }
 .btn:hover {
   color: var(--clr-primary-1);
-  background: #FFAB87;
+  background: #880E60;
 }
 
 .btn1 {
   text-transform: uppercase;
-  background: #B15293;
+  background: #FFBC9F;
   color: var(--clr-primary-9);
   padding: 0.4rem 0.6rem;
   letter-spacing: var(--spacing);
@@ -177,7 +177,7 @@ p {
 
 .btn1:hover {
   color: var(--clr-primary-1);
-  background: #880E60;
+  background: #FFAB87;
 }
 
 .center-btn {
@@ -637,7 +637,7 @@ Header
   }
 }
 span {
-  color: #B15293;
+  color: #FFBC9F;
 }
 
 .hero-paragraph {
