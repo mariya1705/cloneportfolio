@@ -41,7 +41,7 @@ const Hero = () => {
                 Contact me
               </Link>
 
-              <a download href="https://drive.google.com/file/d/1W_ChoVw9HdIRDdJ4r0IYUJJIU8P356rj/view?usp=sharing" target=”_blank” className="btn">
+              <a href="https://drive.google.com/file/d/1W_ChoVw9HdIRDdJ4r0IYUJJIU8P356rj/view?usp=sharing" target=”_blank” className="btn">
                 Get Resume
               </a>
             </div>
