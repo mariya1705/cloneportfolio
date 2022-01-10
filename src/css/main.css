@@ -23,7 +23,7 @@ Variables
   /* lighter shades of primary color */
   --clr-primary-6: hsl(185, 57%, 50%);
   --clr-primary-7: hsl(184, 65%, 59%);
-  --clr-primary-8: #6932e9ab;
+  --clr-primary-8: rgba(172, 21, 123, 0);
   --clr-primary-9: hsl(0, 0%, 100%);
   --clr-primary-10: hsl(0, 0%, 100%);
   --clr-primary-11: #7c5dc0;
