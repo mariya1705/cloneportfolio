@@ -23,7 +23,7 @@ Variables
   /* lighter shades of primary color */
   --clr-primary-6: hsl(185, 57%, 50%);
   --clr-primary-7: hsl(184, 65%, 59%);
-  --clr-primary-8: rgba(172, 21, 123, 0);
+  --clr-primary-8: rgba(172, 21, 123, 0.8);
   --clr-primary-9: hsl(0, 0%, 100%);
   --clr-primary-10: hsl(0, 0%, 100%);
   --clr-primary-11: #7c5dc0;
@@ -159,7 +159,7 @@ p {
 
 .btn1 {
   text-transform: uppercase;
-  background: #34a7d4;
+  background: #D28ABB;
   color: var(--clr-primary-9);
   padding: 0.4rem 0.6rem;
   letter-spacing: var(--spacing);
@@ -177,7 +177,7 @@ p {
 
 .btn1:hover {
   color: var(--clr-primary-1);
-  background: #217697;
+  background: #B15293;
 }
 
 .center-btn {
