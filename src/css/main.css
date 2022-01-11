@@ -137,7 +137,7 @@ p {
 
 .btn {
   text-transform: uppercase;
-  background: #C97FB1;
+  background: #ce6495;
   color: var(--clr-primary-9);
   padding: 0.4rem 0.6rem;
   letter-spacing: var(--spacing);
@@ -154,12 +154,12 @@ p {
 }
 .btn:hover {
   color: var(--clr-primary-1);
-  background: #BF78A8;
+  background: #B75D86;
 }
 
 .btn1 {
   text-transform: uppercase;
-  background: #FFBCC8;
+  background: #fb936fc7;
   color: var(--clr-primary-9);
   padding: 0.4rem 0.6rem;
   letter-spacing: var(--spacing);
@@ -177,7 +177,7 @@ p {
 
 .btn1:hover {
   color: var(--clr-primary-1);
-  background: #EDA5B2;
+  background: #EA8663;
 }
 
 .center-btn {
@@ -303,7 +303,7 @@ p {
 }
 
 .social-link:hover {
-  color: #880E60;
+  color: #ce6495;
 }
 /*
 =============== 
@@ -637,7 +637,7 @@ Header
   }
 }
 span {
-  color: #FFBCC8;
+  color: #ed7b90;
 }
 
 .hero-paragraph {
