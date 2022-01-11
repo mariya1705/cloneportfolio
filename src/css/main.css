@@ -285,7 +285,7 @@ p {
 }
 .social-link {
   font-size: 1.75rem;
-  color: #B15293;
+  color: #ce6495;
 
   animation: social-link 0.6s ease-in 1s;
   animation-fill-mode: both;
@@ -303,7 +303,7 @@ p {
 }
 
 .social-link:hover {
-  color: #ce6495;
+  color: #B75D86;
 }
 /*
 =============== 
