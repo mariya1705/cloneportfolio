@@ -16,12 +16,12 @@ const data = [
   {
     id: 2,
     icon: <FaLinkedin className="social-icon"></FaLinkedin>,
-    url: "https://www.linkedin.com/in/rehan-ali-714b81133",
+    url: "https://www.linkedin.com/in/mariya-f-53a4b2218/",
   },
   {
     id: 3,
     icon: <FaInstagramSquare className="social-icon"></FaInstagramSquare>,
-    url: "https://www.instagram.com/ray.han_",
+    url: "https://www.instagram.com/mariya.fareed",
   },
   {
     id: 4,
