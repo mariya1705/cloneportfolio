@@ -9,8 +9,8 @@ module.exports = {
     title: `WebDev Portfolio`,
     description: `This is WebDev Portfolio Site built with Gatsby and Strapi`,
     titleTemplate: `%s | Webdev Portfolio`,
-    url: `https://www.devrayhan.com/`,
-    twitterUsername: `@Rehan`,
+    url: `https://www.mariyacodes.site/`,
+    twitterUsername: `@Mariya`,
     image: `/mainImg.png`,
   },
   plugins: [
