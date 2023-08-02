@@ -21,7 +21,7 @@ export default ({ data }) => {
         <Services />
         <Projects title="All Creative Works" showLink projects={projects} />
 
-        <Testimonials />
+    
       </Layout>
     </>
   )
