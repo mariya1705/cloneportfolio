@@ -32,8 +32,8 @@ module.exports = {
         //   contentTypes : `jobs`, `projects`, `blogs`,
 
         //  ONLY ADD TO ARRAY IF YOU HAVE DATA IN STRAPI !!!!
-        contentTypes: [`projects`, `testimonials`],
-        singleTypes: [`about`],
+        contentTypes: [`projects`],
+        
       },
     },
     // {
