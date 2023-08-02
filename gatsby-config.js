@@ -27,7 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-source-strapi`,
       options: {
-        apiURL: `https://strapi-portfolio-mariya.herokuapp.com`,
+        apiURL: `https://devrayhan.onrender.com`,
         queryLimit: 10000, // Default to 100
         //   contentTypes : `jobs`, `projects`, `blogs`,
 
